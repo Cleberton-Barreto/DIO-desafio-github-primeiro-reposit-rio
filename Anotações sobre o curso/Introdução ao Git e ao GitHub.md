@@ -85,9 +85,9 @@
 
 
 ## Criando um Commit:
-- ##### git add *
+- ##### git add * (Passo 1)
 
-- ##### git commit -m "Dar um nome que faça sentido ao seu commit"
+- ##### git commit -m "Dar um nome que faça sentido ao seu commit"  (Passo 2)
 
 ##### Após esses 2 passos, teremos o seguinte padrão abaixo;
 
@@ -96,6 +96,8 @@
 - ##### Quantas linhas possui o arquivo --> 1 file changed, 21 insertions(+)
 
 - ##### Nome do arquivo --> create mode 100644 strgonoff.md
+
+- #### git push origin main  (Passo 3/fim)
 
 
 #### Tracked --> Arquivos rastreáveis
